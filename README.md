@@ -88,8 +88,13 @@ Environmental: combined deliveries mean fewer half-empty trips, and better forec
 
 ## Research and References
 1.e-NAM (National Agriculture Market): https://enam.gov.in
+<br>
 2.AGMARKNET (market price data): https://agmarknet.gov.in
+<br>
 3.Farmer Portal: https://farmer.gov.in
+<br>
 4.Digital India: https://www.digitalindia.gov.in
+<br>
 5.FAO: https://www.fao.org
+<br>
 6.Django Documentation: https://docs.djangoproject.com
